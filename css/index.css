@@ -1,0 +1,88 @@
+/* @import url(sanitize.css); */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap');
+
+h1{
+  text-align: center;
+  font-family: “STKaiti”, “ヒラギノ明朝 Pro W3”, “Hiragino Mincho Pro”, serif;
+}
+
+p{
+  text-align: center;
+  font-family: “STKaiti”, “ヒラギノ明朝 Pro W3”, “Hiragino Mincho Pro”, serif;
+  
+}
+
+.pr{
+  text-align: center;
+}
+
+#contents h2 {
+	clear: both;
+	margin-bottom: 20px;
+	color: #fff;
+	padding: 10px 20px;
+	background: #224acf;
+	border-radius: 10px;
+}
+
+#new dl {
+	padding: 0px 20px;
+	margin-bottom: 20px;
+}
+
+#new dt {
+	font-weight: bold;
+	float: left;
+	width: 8em;
+}
+
+#new dd {
+	padding-left: 8em;
+	border: 2px solid blue;
+}
+
+
+.flex{
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+.item{
+	width: 300px;
+	height: 300px;
+	border: 2px solid blue;
+}
+
+
+.video{
+	text-align: center;
+}
+
+.carousel-inner{
+  width: 293px;
+	height: 145px;
+	
+}
+
+#billboard{
+  width: 100%;
+  height: 350px;
+  background: #fff;
+}
+
+#mainImg{
+  width: 560px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+
+
+footer {
+	clear: both;
+	text-align: center;
+	padding: 30px 0px 10px;
+}
+
+
